@@ -1,0 +1,8 @@
+#navbar {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(162,227,196);
+    font-size: 25px;
+    color: rgb(60, 73, 63);
+}
+

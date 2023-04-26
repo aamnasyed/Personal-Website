@@ -1,0 +1,21 @@
+#homepageSection{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#nameHeader {
+    display: flex;
+    justify-content: center;
+}
+
+#homepageQuote {
+    display: flex;
+    justify-content: flex-end;
+}
+
+#X{ 
+    display: flex;
+    align-items: flex-end;
+}
